@@ -9,7 +9,7 @@ package group_lab_1_group_06;
  * @author connorcotton
  */
 public class Member2 {
-    public void PrintGreeting() {
+    public static void main(String[] args) {
         System.out.println("Hello from Connor Cotton, Member 2");
     }
 }
