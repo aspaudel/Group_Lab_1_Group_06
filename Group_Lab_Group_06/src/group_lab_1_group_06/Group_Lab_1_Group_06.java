@@ -14,7 +14,9 @@ public class Group_Lab_1_Group_06 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Member1.main(args);
+        Member2.main(args);
+        Member3.main(args);
     }
     
 }
